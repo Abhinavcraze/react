@@ -1,0 +1,32 @@
+{
+  "courses" : [
+    {
+      "id": 1,
+      "name": "HTML (Dynamic Content Loading)",
+      "price": "$199",
+      "image": "http://localhost:3000/assets/html logo.png",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "CSS (Dynamic Content Loading)",
+      "price": "$299",
+      "image": "http://localhost:3000/assets/css logo.png",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "JavaScript (Dynamic Content Loading)",
+      "price": "$499",
+      "image": "http://localhost:3000/assets/JavaScript.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "React (Dynamic Content Loading)",
+      "price": "$449",
+      "image": "http://localhost:3000/assets/react.png",
+      "rating": 4.7
+    }
+  ]
+}
