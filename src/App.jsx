@@ -199,7 +199,7 @@ function App() {
           
           <hr />
         </div>
-        <Footer />
+        <Footer/>
     </>
   );
 }
