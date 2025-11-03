@@ -158,15 +158,15 @@ function App() {
 
           <hr/>
 
-          <h2>Advanced State Management with Methods as Props</h2>
+              {/*it will gives an error*/}
+          {/* <h2>Advanced State Management with Methods as Props</h2>
           <div className="component-section">
-            <UseState1 name="HTML UseState Functionality with delete" price={199} image={Html} show={true} delete={handleDeleteCourse}/>
-              <UseState1 name="CSS UseState Functionality with delete" price={149} image={Css} delete={handleDeleteCourse}/>
-              <UseState1 name="JavaScript UseState Functionality with delete" price={249} image={JavaScript} show={true} delete={handleDeleteCourse}/>
-              <UseState1 name="Angular UseState Functionality with delete" price={449} image={Angular} show={true} delete={handleDeleteCourse}/>
-              
+            <UseState1 id={1} name="HTML UseState Functionality with delete" price={199} image={Html} show={true} delete={handleDeleteCourse}/>
+            <UseState1 id={2} name="CSS UseState Functionality with delete" price={149} image={Css} delete={handleDeleteCourse}/>
+            <UseState1 id={3} name="JavaScript UseState Functionality with delete" price={249} image={JavaScript} show={true} delete={handleDeleteCourse}/>
+            <UseState1 id={4} name="Angular UseState Functionality with delete" price={449} image={Angular} show={true} delete={handleDeleteCourse}/>
           </div>
-          <hr />
+          <hr /> */}
 
           <h2>Use state Method as props</h2>
           <UsestateMethodasProps/>
